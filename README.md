@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [User-Stories](#Product-Spec)
+1. [User Stories](#User-Stories)
 1. [Demo](#Demo)
 
 ## Overview
