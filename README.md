@@ -15,7 +15,7 @@ This app enables architects to create a 360 tour of a finished building in virtu
 - **Story:** Analyzes users music choices, and connects them to other users with similar choices. The user can then decide to message this person and befriend them if wanted.
 - **Market:** Any individual could choose to use this app, but it's primary audience would be architects.
 
-## User Stories
+## User-Stories
 
 **Must-have user stories**
 
@@ -35,5 +35,5 @@ This app enables architects to create a 360 tour of a finished building in virtu
 
 **Work in Progress**
 
-<img src='https://i.imgur.com/sJPleU1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/sJPleU1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
