@@ -33,4 +33,4 @@ This app enables architects to create a 360 tour of a finished building in virtu
 
 ## Demo 
 
-[Milestone 3 Demonstration](https://www.youtube.com/watch?v=uUA6_Tq-exk)
+<a href="https://www.youtube.com/watch?v=uUA6_Tq-exk" target="_blank">Milestone 3 Demonstration</a>
