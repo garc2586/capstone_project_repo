@@ -33,5 +33,5 @@ This app enables architects to create a 360 tour of a finished building in virtu
 
 ## Demo 
 
-**Work in Progress**
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uUA6_Tq-exk/0.jpg)](https://www.youtube.com/watch?v=uUA6_Tq-exk)
+Click the image
