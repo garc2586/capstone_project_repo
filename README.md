@@ -12,7 +12,7 @@ This app enables architects to create a 360 tour of a finished building in virtu
 ### App Evaluation
 - **Category:** Virtual Reality/ Creation
 - **Mobile:** This app would be primarily developed for mobile web vr, but would also work as intended on desktop. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
-- **Story:** Analyzes users music choices, and connects them to other users with similar choices. The user can then decide to message this person and befriend them if wanted.
+- **Story:** Enables architects to create, edit and share 360 tours with potential clients.
 - **Market:** Any individual could choose to use this app, but it's primary audience would be architects.
 
 ## User-Stories
