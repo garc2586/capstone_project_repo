@@ -1,4 +1,4 @@
-# Panafold 360 Tour
+# Architect 360 Tour
 
 ## Table of Contents
 1. [Overview](#Overview)
