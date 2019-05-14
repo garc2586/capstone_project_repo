@@ -1,11 +1,13 @@
 <p align = "center">
 <img src='https://i.imgur.com/if29pJx.jpg' title = 'App Logo' width = '' alt= 'App Logo'/>
 </p>
-            
+### Created by  Jared Long, Theodore Ebenhoech, and Carlos Garcia
+
+
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Features](#Features)
-1. [Demo](#Demo)
+2. [Features](#Features)
+3. [Demo](#Demo)
 
 ## Overview
 ### Description
