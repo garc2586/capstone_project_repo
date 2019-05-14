@@ -1,6 +1,7 @@
-<p align = "center>
+<p align = "center">
 <img src='https://i.imgur.com/if29pJx.jpg' title = 'App Logo' width = '' alt= 'App Logo'/>
-            </p>
+</p>
+            
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Features](#Features)
