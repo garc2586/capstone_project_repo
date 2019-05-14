@@ -1,7 +1,8 @@
 <p align = "center">
 <img src='https://i.imgur.com/if29pJx.jpg' title = 'App Logo' width = '' alt= 'App Logo'/>
 </p>
-### Created by  Jared Long, Theodore Ebenhoech, and Carlos Garcia
+
+<b>Created by  Jared Long, Theodore Ebenhoech, and Carlos Garcia </b>
 
 
 ## Table of Contents
