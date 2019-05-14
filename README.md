@@ -1,5 +1,6 @@
+<p align = "center>
 <img src='https://i.imgur.com/if29pJx.jpg' title = 'App Logo' width = '' alt= 'App Logo'/>
-
+            </p>
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Features](#Features)
@@ -37,5 +38,5 @@ This app is inteded to run on the web on both mobile and desktop, but mobile pro
 ## Demo 
 
 <img src='https://media.giphy.com/media/PiuWav1VmNOM4QObNU/giphy.gif' title = 'Login Demo' width = '' alt= 'Login Demo'/>
-<a href="https://www.youtube.com/watch?v=uUA6_Tq-exk" target="_blank">Image Navigation Demonstration</a>
+<a href="https://www.youtube.com/watch?v=uUA6_Tq-exk" target="_blank">Image Navigation Demonstration</a> <br>
 <a href= "https://youtu.be/-CfFNNg4Ink" target= "_blank"> 3D Model Manipluation </a>
